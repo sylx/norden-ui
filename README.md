@@ -1,3 +1,6 @@
+> [!NOTE]
+> このリポジトリは 2026-11-14 に [nordencult](https://github.com/sylx/nordencult) の [`norden-ui/`](https://github.com/sylx/nordencult/tree/main/norden-ui) に移りました（履歴もそのまま取り込んであります）。ここは更新しません。
+
 # norden-ui
 
 ファンタジーSLG **nordencult** のReact UIライブラリ。ターン制SLGのUIを次の3層で作ります。
